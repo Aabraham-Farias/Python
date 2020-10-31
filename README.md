@@ -1,2 +1,2 @@
-# Phyton
-Iniciar a explorar con phyton 
+# Python
+Iniciar a explorar con python
