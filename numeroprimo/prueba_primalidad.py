@@ -1,5 +1,8 @@
 def es_primo(numero):
-    contador=0
+    if numero == 1:
+        return False
+    else:
+        contador=0
     for i in range(1,numero + 1):
         if i == 1 or i == numero:
             continue
